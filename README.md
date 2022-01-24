@@ -1,12 +1,17 @@
 # IOT-Project-Simulation
 IOT Project and Learning
 
-<img src="https://github.com/rishant/IOT-Project-Simulation/blob/main/IOT_HiveMqtt.PNG" width="50%" height="50%"><img src="https://github.com/rishant/IOT-Project-Simulation/blob/main/IOT_HiveMqtt_KafkaBroker.PNG" width="50%" height="50%">
+<img src="https://github.com/rishant/IOT-Project-Simulation/blob/main/IOT_HiveMqtt.PNG" width="50%" height="50%"><img src="https://github.com/rishant/IOT-Project-Simulation/blob/main/IOT_HiveMqtt_KafkaBroker.PNG" width="50%" height="50%"><img src="https://github.com/rishant/IOT-Project-Simulation/blob/main/SensorDataProcessing.PNG" width="50%" height="50%">
 
 <!-- ![alt text](https://github.com/rishant/IOT-Project-Simulation/blob/main/IOT_HiveMqtt_KafkaBroker.PNG) -->
 
 ## Realtime IOT JAVA project:
   - https://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming/
+
+## Realtime Data Prediction Using Python:
+  - https://github.com/poojithaamin/Personalised-Health-Monitoring-using-Predictive-Analytics
+  - https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine
+  - https://github.com/thehapyone/Predictive-Maintenance-Project
 
 ### Unified Log Data Collector  
   - https://www.fluentd.org/
@@ -35,3 +40,5 @@ IOT Project and Learning
 
 #### Tool Reference Page:
   - https://instabug.com/blog/top-iot-testing-tools/
+  - https://solace.com/blog/predictive-maintenance-iot-machine-learning-dataflow-pubsub/
+  - https://www.upsolver.com/blog/streaming-data-architecture-key-components
