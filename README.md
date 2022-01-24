@@ -42,3 +42,5 @@ IOT Project and Learning
   - https://instabug.com/blog/top-iot-testing-tools/
   - https://solace.com/blog/predictive-maintenance-iot-machine-learning-dataflow-pubsub/
   - https://www.upsolver.com/blog/streaming-data-architecture-key-components
+
+<img src="https://github.com/rishant/IOT-Project-Simulation/blob/main/A-high-level-overview-of-the-sensor-data-pipeline-and-its-components.png" width="50%" height="50%">
