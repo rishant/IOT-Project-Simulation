@@ -7,11 +7,13 @@ IOT Project and Learning
 
 ## Realtime IOT JAVA project:
   - https://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming/
+  - https://github.com/knoldus/real-time-stream-processing-engine
 
-## Realtime Data Prediction Using Python:
+## Realtime Data Prediction Using Python/Java:
   - https://github.com/poojithaamin/Personalised-Health-Monitoring-using-Predictive-Analytics
   - https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine
   - https://github.com/thehapyone/Predictive-Maintenance-Project
+  - https://dzone.com/articles/kafka-and-spark-streams-living-happily-ever-after
 
 ### Unified Log Data Collector  
   - https://www.fluentd.org/
