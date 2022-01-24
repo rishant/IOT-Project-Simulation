@@ -27,7 +27,8 @@ IOT Project and Learning
 
 ### MQTT with Kafka Integration:
   - https://www.hivemq.com/solutions/technology/kafka-solution/
-  - 
+  - https://medium.com/python-point/mqtt-and-kafka-8e470eff606b
+
 ### MQTT Client Publish/Suscribe sameple code:
   - https://cumulocity.com/guides/device-sdk/mqtt-examples/
   - https://www.digikey.in/en/maker/projects/send-and-receive-messages-to-your-iot-devices-using-mqtt/39ed5690cc46473abe8904c8f960341f
