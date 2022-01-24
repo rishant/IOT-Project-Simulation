@@ -9,11 +9,15 @@ IOT Project and Learning
   - https://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming/
   - https://github.com/knoldus/real-time-stream-processing-engine
 
-## Realtime Data Prediction Using Python/Java:
+## Realtime Data Prediction Using Python/Java/Scala:
   - https://github.com/poojithaamin/Personalised-Health-Monitoring-using-Predictive-Analytics
   - https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine
   - https://github.com/thehapyone/Predictive-Maintenance-Project
+
+## Realtime Data Processing Using Python/Java/Scala:
   - https://dzone.com/articles/kafka-and-spark-streams-living-happily-ever-after
+  - https://github.com/knoldus/integrate-spark-streaming-with-kafka-and-cassandra
+  - https://github.com/knoldus/spark-structured-streaming-kafka-to-postgresql
 
 ### Unified Log Data Collector  
   - https://www.fluentd.org/
