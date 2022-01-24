@@ -5,7 +5,13 @@ IOT Project and Learning
 
 <!-- ![alt text](https://github.com/rishant/IOT-Project-Simulation/blob/main/IOT_HiveMqtt_KafkaBroker.PNG) -->
 
-# Open Source MQTT Broker:
+## Realtime IOT JAVA project:
+  - https://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming/
+
+### Unified Log Data Collector  
+  - https://www.fluentd.org/
+
+### Open Source MQTT Broker:
   - https://mqtt.org/
   - https://github.com/andsel/moquette
   - https://github.com/hivemq/hivemq-community-edition
@@ -14,20 +20,18 @@ IOT Project and Learning
   - https://github.com/hivemq/mqtt-cli
   - https://github.com/hivemq/hivemq-testcontainer
 
-# MQTT with Kafka Integration:
+### MQTT with Kafka Integration:
   - https://www.hivemq.com/solutions/technology/kafka-solution/
   - 
-
-# MQTT Client Publish/Suscribe sameple code:
+### MQTT Client Publish/Suscribe sameple code:
   - https://cumulocity.com/guides/device-sdk/mqtt-examples/
   - https://www.digikey.in/en/maker/projects/send-and-receive-messages-to-your-iot-devices-using-mqtt/39ed5690cc46473abe8904c8f960341f
 
-# References:
+### References:
   - https://riptutorial.com/mqtt
   - https://tutorials.solace.dev/java-mqtt-paho/publish-subscribe/
   - https://cumulocity.com/guides/device-sdk/introduction/
   - https://github.com/hivemq/hivemq-community-edition
 
-
-# Tool Reference Page:
+#### Tool Reference Page:
   - https://instabug.com/blog/top-iot-testing-tools/
