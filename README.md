@@ -30,6 +30,7 @@ IOT Project and Learning
   - https://www.hivemq.com/developers/community/
   - https://github.com/hivemq/mqtt-cli
   - https://github.com/hivemq/hivemq-testcontainer
+  - https://mosquitto.org/download/ ( https://www.youtube.com/watch?v=Se9U7QUDrwk )
 
 ### MQTT with Kafka Integration:
   - https://www.hivemq.com/solutions/technology/kafka-solution/
