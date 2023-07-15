@@ -33,6 +33,7 @@ IOT Project and Learning
   - https://mosquitto.org/download/ ( https://www.youtube.com/watch?v=Se9U7QUDrwk )
 
 ### MQTT with Kafka Integration:
+  - https://www.hivemq.com/docs/kafka/4.7/enterprise-extension-for-kafka/kafka.html
   - https://www.hivemq.com/solutions/technology/kafka-solution/
   - https://medium.com/python-point/mqtt-and-kafka-8e470eff606b
 
@@ -50,5 +51,7 @@ IOT Project and Learning
   - https://instabug.com/blog/top-iot-testing-tools/
   - https://solace.com/blog/predictive-maintenance-iot-machine-learning-dataflow-pubsub/
   - https://www.upsolver.com/blog/streaming-data-architecture-key-components
+
+  - https://www.youtube.com/watch?v=ekav8Le5a7U
 
 <img src="https://github.com/rishant/IOT-Project-Simulation/blob/main/A-high-level-overview-of-the-sensor-data-pipeline-and-its-components.png" width="50%" height="50%">
